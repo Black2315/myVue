@@ -10,6 +10,7 @@ core/
 ├── config.js         # 全局配置
 ├── instance/         # Vue实例相关
 ├── vdom/            # 虚拟DOM实现
+├── observer/        # 数据响应式实现
 ├── apis/            # 核心API
 ├── utils/           # 工具函数
 └── components/      # 内置组件

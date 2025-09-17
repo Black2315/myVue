@@ -1,0 +1,14 @@
+{
+  "name": "myvue",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Vue2 微内核框架实现",
+  "main": "core/index.js",
+  "scripts": {
+    "test": "node core/observer/test.js",
+    "start": "node core/index.js"
+  },
+  "keywords": ["vue", "framework", "reactive"],
+  "author": "",
+  "license": "MIT"
+}
